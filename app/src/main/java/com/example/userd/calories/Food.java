@@ -1,13 +1,17 @@
 package com.example.userd.calories;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
-public class Add_Food extends AppCompatActivity {
+public class Food extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_add__food);
+        setContentView(R.layout.activity_food);
     }
+
+
 }

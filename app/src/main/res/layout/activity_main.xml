@@ -52,12 +52,13 @@
             android:textSize="30sp" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/Baddfood"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="70dp"
             android:layout_marginRight="70dp"
             android:layout_marginTop="30dp"
-            android:text="Add Food" />
+            android:text="Add Food"
+            android:onClick="AddFood"/>
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
