@@ -24,10 +24,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-//public void AddFood(View v){
-//        Intent AddFoodIntent=new Intent(MainActivity.this,AddFood.class);
-//        startActivity(AddFoodIntent);
-//
-//        }
     }
 }
